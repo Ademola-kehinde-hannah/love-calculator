@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container  {
+  width: 90%;
+  max-width: 400px; /* Limits the maximum width */
+  margin: 50px auto;  /* Centers the card horizontally */
+  padding: 20px;
+  background-color: #ffc0cb;
+  border-radius: 10px; /* Optional: rounds the corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a soft shadow */
+  text-align: center;
+}
+
+input {
+      width: 100%;
+      padding: 8px;
+      margin: 8px 0 16px 0;
+      box-sizing: border-box;
+    }
+
+    button {
+      padding: 10px 16px;
+      cursor: pointer;
+    }
+
+/* #loveForm {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff; */
+    /* padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center; */ 
+
+
+
+/* label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+ input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+ } */
